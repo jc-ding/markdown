@@ -5,7 +5,3 @@
 ->菜单Git->Branches->CToE(缩写)->输入要恢复的版本本号->Git
 ->Reset HEAD->选择Mixed,输入留用的最新版本编号->commit->push
 ->填写分支，再重新push->OK
-
-cccd7dd340340b213b3457b28eb7e8688ac64955
-
-old 296c215813c0a2d657f79e1bf40d110ca8c701d7
